@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parikshit Patil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pskp-95&label=Profile%20views&color=0e75b6&style=flat-square" alt="pskp-95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pskp-95" alt="pskp-95" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pskp-95&theme=alduin&row=1" alt="pskp-95" /></p>
 
 <!-- <h3 align="left">My Repositories</h3> -->
 
