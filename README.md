@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pskp-95" alt="pskp-95" /></a> </p>
 
-<h3 align="left">My Repositories</h3>
+<!-- <h3 align="left">My Repositories</h3> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=c-learning&theme=dark)](https://github.com/lets-learn-it/c-learning)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=c-learning&theme=dark)](https://github.com/lets-learn-it/c-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=terraform-learning&theme=dark)](https://github.com/lets-learn-it/terraform-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=go-learning&theme=dark)](https://github.com/lets-learn-it/go-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=scheduler&theme=dark)](https://github.com/pskp-95/scheduler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=code_editor&theme=dark)](https://github.com/pskp-95/code_editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=code_editor&theme=dark)](https://github.com/pskp-95/code_editor) -->
 
-<table>
+<!-- <table>
 <tr><th>Backend Languages</th>
 <td><p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -60,4 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pskp-95&show_icons=true&theme=dark&locale=en" alt="pskp-95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pskp-95&theme=dark" alt="pskp-95" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pskp-95&theme=dark" alt="pskp-95" /></p> -->
