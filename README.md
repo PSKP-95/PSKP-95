@@ -1,16 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/PSKP-95/PSKP-95/master/Lazy-Cat.png)](https://avabodha.in)
 <h1 align="center">Hi 👋, I'm Parikshit Patil</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pskp-95&label=Profile%20views&color=0e75b6&style=flat" alt="pskp-95" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pskp-95&label=Profile%20views&color=0e75b6&style=flat-square" alt="pskp-95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pskp-95" alt="pskp-95" /></a> </p>
 
 <h3 align="left">My Repositories</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=c-learning)](https://github.com/lets-learn-it/c-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=terraform-learning)](https://github.com/lets-learn-it/terraform-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=go-learning)](https://github.com/lets-learn-it/go-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=scheduler)](https://github.com/pskp-95/scheduler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=code_editor)](https://github.com/pskp-95/code_editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=c-learning&theme=dark)](https://github.com/lets-learn-it/c-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=terraform-learning&theme=dark)](https://github.com/lets-learn-it/terraform-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lets-learn-it&repo=go-learning&theme=dark)](https://github.com/lets-learn-it/go-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=scheduler&theme=dark)](https://github.com/pskp-95/scheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pskp-95&repo=code_editor&theme=dark)](https://github.com/pskp-95/code_editor)
 
 <table>
 <tr><th>Backend Languages</th>
@@ -58,6 +58,6 @@
 <a href="https://stackoverflow.com/users/pskp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pskp" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pskp-95&show_icons=true&locale=en" alt="pskp-95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pskp-95&show_icons=true&theme=dark&locale=en" alt="pskp-95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pskp-95&" alt="pskp-95" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pskp-95&theme=dark" alt="pskp-95" /></p>
