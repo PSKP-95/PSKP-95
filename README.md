@@ -12,4 +12,4 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [...more Blog Articles]
+▶️ [...more Blog Articles](https://avabodha.in)
